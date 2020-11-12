@@ -1,0 +1,15 @@
+.save {
+  border: none;
+  background-color: rgb(118, 46, 252);
+  padding: 3.5px 10px;
+  font-weight: 500;
+  color: white;
+}
+
+.save:hover {
+  cursor: pointer;
+}
+
+.input {
+  border: solid rgb(118, 46, 252);
+}
